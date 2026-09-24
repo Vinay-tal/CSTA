@@ -1,1 +1,1 @@
-"""Customer Support Ticket Agent starter package."""
+"""FastAPI application package."""
